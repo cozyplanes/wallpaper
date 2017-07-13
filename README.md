@@ -1,5 +1,6 @@
 # Wallpapers
-*Collection of my wallpapers*                   
+*Collection of my wallpapers*                
+You can download the wallpapers as a zip file by clicking [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/wallpapers.zip)     
 
 ### devRant unofficial wallpaper
 Download [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/devrant_wallpaper.png)               
@@ -8,7 +9,8 @@ Created by devrant.io
 Recreated by [cozyplanes](https://about.me/cozyplanes)                 
 
 ### `haveGreatIdea recursion` wallpaper
-Download [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/idea_wallpaper.png)                   
+Download the original wallpaper from [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/idea_wallpaper.png)   
+Download the modified wallpaper with new font from [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/idea_modified.png)   
 
 Original image from Twitter  
 Recreated by [cozyplanes](https://about.me/cozyplanes) 
