@@ -1,5 +1,5 @@
 # Wallpapers
-*Collection of my wallpapers*                
+*Collection of my wallpapers*<sup>[1](#disclaimer_copyright)</sup>                
 You can download the wallpapers as a zip file by clicking [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/wallpapers.zip)     
 
 ### devRant unofficial wallpaper
@@ -21,3 +21,7 @@ Recreated by [cozyplanes](https://about.me/cozyplanes)
 
 #### Contact
 Email : <cozyplanes_contact@protonmail.com>          
+
+---
+
+<a name="disclaimer_copyright">1</a>: Okay, so there may be a confusion with the copyright. The original image was made by `Tim Rogus` working as a designer in `devrant.io`. I got that image, editted it a bit, and recreated as a `1920 * 1080` wallpaper. All kudos go to `Tim Rogus`, but just praise me a little bit (just a teeny, weeny, bit). Hope that clarifies it.       
