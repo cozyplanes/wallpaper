@@ -7,11 +7,15 @@ Download [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/wp-
 
 Created by [cozyplanes](https://github.com/cozyplanes)  
 
+![](https://raw.githubusercontent.com/cozyplanes/wallpaper/master/walls/wp-2560-1080-e-d-2-cozyplanes.png)
+
 ### devRant unofficial wallpaper
 Download [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/devrant_wallpaper.png)               
 
 Created by devrant.io                  
-Recreated by [cozyplanes](https://github.com/cozyplanes)                 
+Recreated by [cozyplanes](https://github.com/cozyplanes)    
+
+![](https://raw.githubusercontent.com/cozyplanes/wallpaper/master/walls/devrant_wallpaper.png)
 
 ### `haveGreatIdea recursion` wallpaper
 Download the original wallpaper from [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/idea_wallpaper.png)   
@@ -20,22 +24,28 @@ Download the modified wallpaper with new font from [here](https://github.com/coz
 Original image from Twitter  
 Recreated by [cozyplanes](https://github.com/cozyplanes) 
 
+![](https://raw.githubusercontent.com/cozyplanes/wallpaper/master/walls/haveGreatIdea_recursion.png)
+
 ### `javascript_this` wallpaper
 Download [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/javascript_this.png)
 
 Created by [francescovallone](https://github.com/francescovallone)
+
+![](https://raw.githubusercontent.com/cozyplanes/wallpaper/master/walls/javascript_this.png)
 
 ### The Zen of Python wallpaper
 Download [here](https://github.com/cozyplanes/wallpaper/releases/download/v1/the_zen_of_python.png)
 
 Created by [francescovallone](https://github.com/francescovallone)
 
+![](https://raw.githubusercontent.com/cozyplanes/wallpaper/master/walls/the_zen_of_python.png)
+
 #### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
 
 #### Contact
-Email : <cozyplanes_contact@protonmail.com>          
+Email : <cozyplanes@tuta.io>          
 
 ---
 
